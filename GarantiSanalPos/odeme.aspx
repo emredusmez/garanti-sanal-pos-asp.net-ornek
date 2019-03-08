@@ -24,7 +24,10 @@
                 </tr>
                 <tr>
                     <td colspan="2">
-                        <asp:Button ID="btnOdemeYap" runat="server" Text="Ödeme Yap" OnClick="btnOdemeYap_Click" /></td>
+                        <asp:Button ID="btnOdemeYap" runat="server" Text="3d Ödeme Yap" OnClick="btnOdemeYap_Click" />
+                                                <asp:Button ID="btnOdemeYap2" runat="server" Text="normal Ödeme Yap" Onclick="btnOdemeYap2_Click" /></td>
+
+                    </td>
                 </tr>
             </table>
         </div>

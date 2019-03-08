@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarantiSanalPos", "GarantiSanalPos\GarantiSanalPos.csproj", "{DA3E49D2-F37E-432F-8467-FE8F289A318C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3E49D2-F37E-432F-8467-FE8F289A318C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3E49D2-F37E-432F-8467-FE8F289A318C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3E49D2-F37E-432F-8467-FE8F289A318C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3E49D2-F37E-432F-8467-FE8F289A318C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535FA1F0-C189-4522-8E00-00E4DC370142}
+	EndGlobalSection
+EndGlobal

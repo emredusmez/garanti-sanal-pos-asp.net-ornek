@@ -1,0 +1,1 @@
+# Proje garanti sanalpos 3d ve 3dsiz provizyon için  hazır olarak kullanılabilir örnek kod içerir. Garanti sanal pos örneği asp.net web form üzerinden hazırlandı.  Kaynak kodu  kopyalayıp içeriği kendi projenize göre düzenleyerek  doğrudan kullanabilirsiniz.
